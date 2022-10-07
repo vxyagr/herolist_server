@@ -4,7 +4,8 @@ details : https://vxyagr.gitbook.io/hiroes-heroes-for-hire/
 
 # Installation
 1. Get the code to a directory<br/>
-2. Edit .env File, change :<br/>
+2. Make sure you have npm and nodejs installed https://nodejs.org/en/ br/>
+3. Edit .env File, change :<br/>
 PORT=8000 to your desired port, we can leave it be and let the 3rd party deployer like Heroku chose if you deploy it there<br/>
 LIST_PAGE="http://localhost:3000/list" change http://localhost:3000 to your front end domain
 MAIN_PAGE="http://localhost:3000/" change http://localhost:3000 to your front end domain
